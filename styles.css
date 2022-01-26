@@ -1,0 +1,27 @@
+h1{
+    background-color: black;
+    color: white;
+    font-family: monospace;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+h1 span{
+    color: cornflowerblue;
+}
+
+h2{
+    background-color: rebeccapurple;
+    color: white;
+    text-align: center;
+    font-family: cursive;
+}
+
+h3{
+    background-color: royalblue;
+    color: black;
+    text-align: right;
+    text-decoration: underline;
+    font-family: sans-serif;
+    font-weight: lighter;
+}
